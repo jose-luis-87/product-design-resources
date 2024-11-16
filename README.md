@@ -18,5 +18,6 @@
   - 🌐 [The web framework for content-driven websites](https://astro.build/)
   - ▶️ [Markdown course](https://ed.team/cursos/markdown)
   - 🌐 [Markdown templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates)
+  - 🌐 [Markdown templates 2](https://zzetao.github.io/awesome-github-profile/)
   - 🌐 Github Profile [Badges](https://shields.io/)
   - [Vectary](https://app.vectary.com/)
