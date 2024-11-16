@@ -10,6 +10,7 @@
 
 ### Design
   - 🌐 [Create Amazin MockUps](https://shots.so/)
+  - 🌐 [Mockups 3d](https://rotato.app/)
   - ▶️ [Master Design Tokens - From Basics to Advanced](https://www.youtube.com/watch?v=OMGTP2QpfiY)
 
 
@@ -19,4 +20,3 @@
   - 🌐 [Markdown templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates)
   - 🌐 Github Profile [Badges](https://shields.io/)
   - [Vectary](https://app.vectary.com/)
-  - [Mockups 3d](https://rotato.app/)
