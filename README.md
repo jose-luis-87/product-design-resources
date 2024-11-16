@@ -9,10 +9,10 @@
 
 
 ### Design
-  - [Create Amazin MockUps](https://shots.so/)
-  - ▶️[Master Design Tokens - From Basics to Advanced](https://www.youtube.com/watch?v=OMGTP2QpfiY)
+  - 🌐 [Create Amazin MockUps](https://shots.so/)
+  - ▶️ [Master Design Tokens - From Basics to Advanced](https://www.youtube.com/watch?v=OMGTP2QpfiY)
 
 
-### Desarollo
-  - [The web framework for content-driven websites](https://astro.build/)
-  - [Markdown course](https://ed.team/cursos/markdown)
+### Development
+  - 🌐 [The web framework for content-driven websites](https://astro.build/)
+  - ▶️ [Markdown course](https://ed.team/cursos/markdown)
