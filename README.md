@@ -12,6 +12,8 @@
   - 🌐 [Create Amazin MockUps](https://shots.so/)
   - 🌐 [Mockups 3d](https://rotato.app/)
   - ▶️ [Master Design Tokens - From Basics to Advanced](https://www.youtube.com/watch?v=OMGTP2QpfiY)
+  - 🌐 [Atomic Design](https://www.uifrommars.com/atomic-design-ventajas/)
+  - 🌐 [Figma Design Systems](https://help.figma.com/hc/en-us/articles/14552901442839-Overview-Introduction-to-design-systems)
 
 
 ### Development
